@@ -1,5 +1,6 @@
 Compilation
 Compile the program with OpenSSL libraries:
+
 gcc -o encrypt_decrypt encrypt_decrypt.c -lssl -lcrypto
 
 Encrypting and decrypting with XOR:
